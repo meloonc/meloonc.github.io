@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meloon 杂记</title><link>https://meloonc.github.io/</link><description>Recent content on Meloon 杂记</description><generator>Hugo -- gohugo.io</generator><language>zh-Hans</language><lastBuildDate>Mon, 06 May 2024 14:17:23 +0800</lastBuildDate><atom:link href="https://meloonc.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>SaaS</title><link>https://meloonc.github.io/p/saas/</link><pubDate>Mon, 06 May 2024 14:17:23 +0800</pubDate><guid>https://meloonc.github.io/p/saas/</guid><description>&lt;h2 id="关于-saas-平台的一些思考">关于 SaaS 平台的一些思考
+&lt;/h2>&lt;h3 id="数据隔离">数据隔离
+&lt;/h3>&lt;ul>
+&lt;li>字段隔离&lt;/li>
+&lt;li>schema 隔离&lt;/li>
+&lt;li>实例隔离&lt;/li>
+&lt;/ul>
+&lt;h3 id="部署方式">部署方式
+&lt;/h3>&lt;ul>
+&lt;li>K8S 部署&lt;/li>
+&lt;/ul></description></item><item><title>归档</title><link>https://meloonc.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://meloonc.github.io/archives/</guid><description/></item><item><title>搜索</title><link>https://meloonc.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://meloonc.github.io/search/</guid><description/></item></channel></rss>
