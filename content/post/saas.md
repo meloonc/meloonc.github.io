@@ -7,7 +7,7 @@ image:
 math: 
 license: 
 hidden: false
-draft: true
+draft: false
 categories:
   - SaaS
 ---
